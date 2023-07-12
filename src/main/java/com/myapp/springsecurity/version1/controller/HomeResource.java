@@ -1,4 +1,4 @@
-package com.myapp.springsecurity.version1;
+package com.myapp.springsecurity.version1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
